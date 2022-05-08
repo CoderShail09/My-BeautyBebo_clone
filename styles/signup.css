@@ -1,0 +1,31 @@
+body{
+    background: lavender;
+}
+#myform{
+    border: 2px solid lavender;
+    height: 240px;
+    width: 400px;
+    margin: auto;
+    position: relative;
+margin-top: 10%;
+margin-bottom: 10%;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+
+.intro{
+    /* border: 1px solid black; */
+    width: 500px;
+    height: 40px;
+    margin: auto;
+    display:flex;
+}
+.intro > .head{
+    height: 40px;
+    width: 100%;
+    color: #444;
+    
+    /* border: 1px solid teal; */
+}
+
+
