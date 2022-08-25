@@ -9,8 +9,6 @@ The tech Stack we used for creating this website are :-
 1. HTML 
 2. CSS
 3. Advancejavascript
-4. React Js
-5.Routing
 
 
 ## Landing Page :
