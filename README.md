@@ -14,16 +14,24 @@ The tech Stack we used for creating this website are :-
 ## Landing Page :
 
 The landing page of BeautyBebo.com displays the navigation bar which contains Find Doctores, Video Cuncult, Medicines, Lab Tests, Surgeries, Security & helps and Login / Signup part.
-![Screenshot (1)](https://user-images.githubusercontent.com/95957299/174484533-37837741-3ffb-4538-b5ee-385456d4c0ef.png)
 
-#Cart page :
-![Screenshot (2)](https://user-images.githubusercontent.com/95957299/174484804-96e17779-d65c-4af0-8392-49f4f2530f0f.png)
+![beautybeb01](https://user-images.githubusercontent.com/95957280/186567365-2c9b3133-0d0d-4d70-9fb3-5d492314605a.png)
 
-#Login Page :
-![Screenshot (3)](https://user-images.githubusercontent.com/95957299/174484825-c2d8e04e-fb6a-40d3-8a02-89e71d4cf1d9.png)
-# Signup Page :
-![Screenshot (4)](https://user-images.githubusercontent.com/95957299/174484858-bf814fcc-a644-4bd0-9895-7e0e247c3088.png)
+
+##Product page :
+
+![Screenshot (19)](https://user-images.githubusercontent.com/95957280/186567614-35d5cc2b-0e4b-4503-b605-843c78a5a94f.png)
+
+
+##Login Page :
+
+![bebo2](https://user-images.githubusercontent.com/95957280/186567760-f690cf52-8ab1-42d9-bebb-598c545747c4.png)
+
+
+##Signup Page :
+
+![bebo3](https://user-images.githubusercontent.com/95957280/186567821-1532db24-2852-4319-9bf3-34bf4375a868.png)
+
 
 ## Contributor
-
 Shailendra Singh :
